@@ -1,4 +1,4 @@
-# Recommender Engine - Streaming Component
+# Recommendation Engine - Streaming Component
 
 ## Description
 This repository contains the streaming component of the recommender engine. The component is written using Apache Spark.
