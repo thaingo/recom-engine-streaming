@@ -89,7 +89,6 @@ object Main {
 
   /**
     * Parses the review that comes in this format: userId::productId::score::timestamp
-    *
     * @param reviewStr A review string in this format: userId::productId::score::timestamp
     * @return A Review object which is parsed from reviewStr.
     */
